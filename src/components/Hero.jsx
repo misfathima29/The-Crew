@@ -31,7 +31,7 @@ const Hero = () => {
                         document.getElementById('contact-form').scrollIntoView({ behavior: 'smooth' });
                     }}
                 >
-                    Join Our Volunteer Network
+                    Join The-Crew
                 </button>      </div>
         </section>
     );

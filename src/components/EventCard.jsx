@@ -42,17 +42,17 @@ const EventCard = ({ event }) => {
           </div>
         </div>
         
-        <div className="event-actions">
+        {/* <div className="event-actions">
           <a 
             href={event.formLink} 
-            target="_blank" 
+            target="#contact-form" 
             rel="noopener noreferrer"
             className="apply-button"
           >
-            Apply via Google Form
+            Apply via Form
           </a>
           <button className="details-button">View Details</button>
-        </div>
+        </div> */}
       </div>
     </div>
   );

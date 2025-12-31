@@ -12,9 +12,9 @@ const companyImages = [
     <section className="about">
       <div className="about-container">
         <div className="about-content">
-          <h3>About MetroVolunteer</h3>
+          <h3>About The-Crew</h3>
           <p>
-            Founded in 2020, MetroVolunteer bridges the gap between event organizers 
+            Founded in 2020, The-Crew bridges the gap between event organizers 
             and passionate volunteers across India's metro cities. We've successfully 
             managed over 500 events, creating meaningful experiences for both 
             volunteers and communities.
